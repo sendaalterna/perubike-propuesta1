@@ -110,7 +110,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -129,7 +129,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "phone": "+1234567890",
-          "email": "info@yourmail.com",
+          "email": "<a href=\"mailto:info@perubike.com\">info@perubike.com</a>",
           "media1": {
             "iconFont": {
               "class": "fa",
@@ -696,7 +696,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -715,7 +715,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "phone": "+1234567890",
-          "email": "info@yourmail.com",
+          "email": "<a href=\"mailto:info@perubike.com\">info@perubike.com</a>",
           "media1": {
             "iconFont": {
               "class": "fa",
@@ -1391,7 +1391,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1410,7 +1410,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "phone": "+1234567890",
-          "email": "info@yourmail.com",
+          "email": "<a href=\"mailto:info@perubike.com\">info@perubike.com</a>",
           "media1": {
             "iconFont": {
               "class": "fa",
@@ -2086,7 +2086,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2105,7 +2105,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "phone": "+1234567890",
-          "email": "info@yourmail.com",
+          "email": "<a href=\"mailto:info@perubike.com\">info@perubike.com</a>",
           "media1": {
             "iconFont": {
               "class": "fa",
@@ -2781,7 +2781,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2800,7 +2800,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "phone": "+1234567890",
-          "email": "info@yourmail.com",
+          "email": "<a href=\"mailto:info@perubike.com\">info@perubike.com</a>",
           "media1": {
             "iconFont": {
               "class": "fa",
@@ -3324,7 +3324,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inicio.html#slider-2\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LIMA BIKING TOURS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-bahia.html\">LIMA BAHÍA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-centro-historico.html\">LIMA CENTRO HISTÓRICO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lima-pachacamac-mtb.html\">LIMA PACHACAMAC MTB</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nosotros.html\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://perubikeshop.com/\">BIKE SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactenos.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3343,7 +3343,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "phone": "+1234567890",
-          "email": "info@yourmail.com",
+          "email": "<a href=\"mailto:info@perubike.com\">info@perubike.com</a>",
           "media1": {
             "iconFont": {
               "class": "fa",
